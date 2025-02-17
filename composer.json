@@ -1,0 +1,20 @@
+{
+    "name": "napastyuk/counter",
+    "description": "Simple PHP counter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya",
+            "email": "napastyuk@gmail.com"
+        }
+    ]
+}
